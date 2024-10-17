@@ -1,5 +1,5 @@
 <?php
-require_once 'Cliente.php';
+require_once 'Modelo/Cliente.php';
 require_once 'ProductoFisico.php';
 $c1 =new Cliente ("Pablo Mayo");
 $c2 = new Cliente ("Pablo Marzo");
